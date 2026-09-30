@@ -1,0 +1,17 @@
+{
+  "latest": "1.1.0",
+  "changelog": [
+    {
+      "version": "1.1.0",
+      "date": "01.10.2026",
+      "changes": {
+        "ADDED": [
+          "Discord logs (AV.Log, AV.LogPlayer)",
+          "Unified player events (playerLoaded, jobUpdated)",
+          "Hex HUD support for notifications"
+        ],
+        "FIXED": ["GetIdentifier no longer errors before the character is loaded"]
+      }
+    }
+  ]
+}
