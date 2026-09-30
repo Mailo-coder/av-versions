@@ -1,0 +1,13 @@
+{
+  "latest": "2.1.0",
+  "changelog": [
+    {
+      "version": "2.1.0",
+      "date": "30.09.2026",
+      "changes": {
+        "ADDED": ["av_lib integration"],
+        "FIXED": ["Locale files are no longer encrypted"]
+      }
+    }
+  ]
+}
