@@ -1,0 +1,19 @@
+{
+  "latest": "2.1.0",
+  "changelog": [
+    {
+      "version": "2.1.0",
+      "date": "01.10.2026",
+      "changes": {
+        "ADDED": [
+          "av_lib integration (requires av_lib)",
+          "Discord logs via av_lib with one webhook per log type",
+          "Start trigger event av_lib:playerLoaded"
+        ],
+        "FIXED": [
+          "Test could hang if the player-loaded event had already fired"
+        ]
+      }
+    }
+  ]
+}
